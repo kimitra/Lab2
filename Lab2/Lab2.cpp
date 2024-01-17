@@ -18,6 +18,6 @@ int main()
 	cout << endl;
 
 	X = (0 - B) / A;
-	cout << "The answeri is:" << endl;
+	cout << "The answer is:" << endl;
 	cout << "x=" << X << endl;
 }
